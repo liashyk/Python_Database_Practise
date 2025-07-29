@@ -1,0 +1,7 @@
+host: "localhost"
+database: "postgres"
+user: "postgres"
+password: "12345"
+students_xlsx: "files/students.xlsx"
+students_csv: "files/students.csv"
+table_name: "students"
